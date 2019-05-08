@@ -2122,3 +2122,18 @@
     margin-top: 0px;
     letter-spacing: -0.3px;
 }
+.product-card-hover{
+    cursor: pointer;
+}
+.product-card-hover:hover .card-title{
+    background: #2C3E50;
+}
+.product-card-hover:hover .card-title{
+    background: #2C3E50;
+}
+.product-card-hover:hover .card-title{
+    background: #2C3E50;
+}
+.product-card-hover:hover .card-title{
+    background: #2C3E50;
+}
