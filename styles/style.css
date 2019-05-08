@@ -1373,10 +1373,10 @@
 /* purchase */
 .purchase{
     margin: 0 auto;
-    width: 1920px;
+    width: 100%;
     display: grid;
     grid-template-areas: "purchase-item purchase-item purchase-item";
-    grid-template-columns: 633px 638px 640px;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 360px;
     grid-gap: 0px;
     margin-top: 100px;
@@ -1399,7 +1399,7 @@
     font-weight: 400;
     font-size: 15px;
     color: #ffffff;
-    letter-spacing: 1.5px;
+    letter-spacing: 1.7px;
 }
 .purchase-item > p {
     font-family: 'Lato';
@@ -1832,6 +1832,7 @@
 .footer-product-list-col {
     display: inline-block;
     margin-top: 28px;
+    width: 272px!important;
 }
 .footer-product-col hr {
     margin-top: 20px;
@@ -1952,5 +1953,172 @@
     margin-bottom: 28px;
 }
 .footer-test-h{
-    
+    margin-top: -13px;
+    margin-left: 12px;
+}
+.footer-tester-one{
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.footer-title-tester{
+    letter-spacing: -0.3px;
+    margin-top: 2px;
+}
+.footer-test-h-icons{
+    margin-top: 6px;
+    margin-left: 11px;
+}
+.footer-product-img-nine{
+    margin-top: -29px;
+}
+.footer-product-right-test-icon-test{
+    margin-top: -41px;
+    margin-left: 22px;
+}
+.footer-producte-icons-tester{
+    margin-top: 9px;
+    margin-left: -2px;
+}
+.footer-head-icon-test{
+    margin-top: 6px;
+}
+.test-footer-right-left{
+    margin-top: -31px;
+}
+.tester-class-footer{
+    margin-top: -42px;
+    margin-left: 22px;
+}
+.class-footer-one-icons{
+    margin-top: 9px;
+    margin-left: -2px;
+}
+.tester-class-footerr{
+    margin-top: 5px;
+}
+.testt-footer-perfect{
+    margin-top: -30px;
+}
+.test-one-perfect-footer{
+    margin-top: -41px;
+    margin-left: 22px;
+}
+.test-two-footer-perfect{
+    margin-top: 8px;
+    margin-left: -2px;
+}
+.test-two-perfect-footer-three{
+    margin-top: 9px;
+    margin-left: -2px;
+}
+.two-div-clase-perfect{
+    margin-left: -34px;
+}
+.footer-name-two-number{
+    margin-left: -37px;
+    margin-top: 2px;
+    letter-spacing: -0.3px;
+}
+
+.testerrtets{
+    margin-top: 6px;
+}
+.classlist-style-had{
+    margin-top: -13px;
+    margin-left: 20px;
+}
+.templeitarea{
+    margin-top: 6px;
+}
+.class-test-six-footer{
+    margin-top: -30px;
+    margin-left: -35px;
+}
+.test-class-footer-body{
+    margin-top: -42px;
+    margin-left: 20px;
+}
+.classstyle-css{
+    margin-top: 9px;
+    margin-left: -1px;
+}
+.htestsecon{
+    margin-top: 6px;
+}
+.classtventy{
+    margin-top: -30px;
+    margin-left: -35px;
+}
+.clasthisis{
+    margin-top: -42px;
+    margin-left: 20px;
+}
+.klassni{
+    margin-top: 8px;
+    margin-left: -1px;
+}
+.classaddstylehtml{
+    margin-top: 9px;
+    margin-left: -1px;
+}
+.schoolproduct{
+    margin-top: 6px;
+}
+.schoolstady{
+    margin-top: -30px;
+    margin-left: -35px;
+}
+.footer-body-conteiner-three{
+    margin-top: -41px;
+    margin-left: 21px;
+}
+.footer-bottom-element-product{
+    margin-top: 6px;
+}
+.footer-name-title-dom{
+    margin-left: -49px;
+    margin-top: 2px;
+    letter-spacing: -0.4px;
+}
+.contact-title-block-dome{
+    margin-left: -50px;
+    margin-top: 7px;
+}
+.contact-title-block-dome >span{
+    letter-spacing: 0.2px;
+}
+.contact-title-block-dome > p{
+    margin-top: -3px;
+}   
+.checkout-claseincss{
+    margin-left: -49px;
+    margin-top: -24px;
+}
+.checkout-claseincss > p{
+    margin-top: -2.5px;
+}
+.nuberthreeclassinfooter{
+    margin-top: -25px;
+    margin-left: -49px;
+}
+.nuberthreeclassinfooter > p{
+    margin-top: -2px;
+}
+.classdivclasname{
+    margin-top: -25px;
+    margin-left: -48px;
+}
+.classdivclasname{
+    letter-spacing: 0.3px;
+    font-size: 17px;
+}
+
+.classdivclasname > p{
+    letter-spacing: -0.45px;
+    margin-top: -5px;
+    margin-left: -2px;
+}
+.footerlastelement{
+    margin-top: 0px;
+    letter-spacing: -0.3px;
 }
