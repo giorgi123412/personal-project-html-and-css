@@ -222,7 +222,7 @@
 .slider-left{
     width: 50px;
     height: 50px;
-    border: 2px solid #ffffff;
+    border: 1px solid #ffffff;
     border-radius: 4px;
     position: absolute;
     left: 63px;
@@ -237,13 +237,13 @@
 .slider-left:hover .fas{
     color: #707070;
 }
-.slider-right{
+.slider-right {
     width: 50px;
     height: 50px;
-    border: 2px solid #ffffff;
+    border: 1px solid #ffffff;
     border-radius: 4px;
     position: absolute;
-    right: 63px;
+    right: 61px;
     top: -218px;
     color: #ffffff;
     text-align: center;
