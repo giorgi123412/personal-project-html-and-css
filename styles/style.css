@@ -1097,7 +1097,8 @@
     font-weight: 400;
     font-size: 14px;
     color: #A1B1BC;
-    line-height: 38px;
+    line-height: 35px;
+    letter-spacing: 0.2px;
 }
 .service-content-top-one > span {
     font-family: 'Lato';
@@ -1164,7 +1165,7 @@
     float: left;
     width: 414px;
     margin-left: 18px;
-    margin-top: 4px;
+    margin-top: 3px;
     line-height: 24px;
 }
 .right-service-content-body{
@@ -1343,7 +1344,7 @@
     margin-left: 47px;
 }
 .payment-item-for{
-    margin-left: 71px;
+    margin-left: 55px;
 }
 .search-input{
     font-family: 'Lato';
@@ -2131,12 +2132,61 @@
 .product-card-hover:hover .product-footer {
     background: #2C3E50;
 }
-.product-card-hover:hover .card-title{
-    background: #2C3E50;
+.product-card-hover:hover .card-title > h4{
+    color: #ffffff;
 }
-.product-card-hover:hover .card-title{
-    background: #2C3E50;
+.product-card-hover:hover .card-title > h5{
+    color: #ffffff;
+}
+.product-card-hover:hover .product-footer > button{
+    background: none;
+    border: 1px solid #ffffff;
 }
 .product-bg{
     background: #ECF0F1;
+}
+.product-footer > button:hover{
+    background: #1ABC9C!important;
+}
+.new-content-three-clases-p{
+    margin-top: 8px!important;
+}
+.right-service-body-title-details-name{
+    margin-top: 29px;
+    margin-left: 25px;
+    margin-bottom: 12px;
+}
+.newservice-item-h-new{
+    letter-spacing: 1.1px;
+}
+.newservice-item-h-new > span{
+    letter-spacing: -0.6px;
+    margin-left: -2px;
+}
+.new-service-mnaes{
+    letter-spacing: 1.5px;
+    margin-left: 1.5px;
+}
+.new-service-mnaes >span{
+    margin-left: -2px;
+}
+.right-serviceitem-newone-head{
+    cursor: pointer;
+}
+.right-serviceitem-newone-head:hover{
+    border-top: 3px solid #1ABC9C;
+}
+.right-serviceitem-newone-head:hover p{
+    margin-top: -2px;
+} 
+.members-item-h-margin{
+    margin-left: 1px;
+ 
+}
+.pament-name-for-item{
+    margin-left: 2px;
+}
+.new-footer-line-item >h2{
+    margin-top: -1px;
+    letter-spacing: -0.27px;
 }
