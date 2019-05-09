@@ -2179,7 +2179,7 @@
 .right-serviceitem-newone-head:hover p{
     margin-top: -2px;
 } 
-.members-item-h-margin{
+.members-item-h-margin > h2{
     margin-left: 1px;
  
 }
