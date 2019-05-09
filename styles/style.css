@@ -2128,7 +2128,7 @@
 .product-card-hover:hover .card-title{
     background: #2C3E50;
 }
-.product-card-hover:hover .card-title{
+.product-card-hover:hover .product-footer {
     background: #2C3E50;
 }
 .product-card-hover:hover .card-title{
@@ -2136,4 +2136,7 @@
 }
 .product-card-hover:hover .card-title{
     background: #2C3E50;
+}
+.product-bg{
+    background: #ECF0F1;
 }
