@@ -2005,7 +2005,7 @@
     margin-left: 22px;
 }
 .test-two-footer-perfect{
-    margin-top: 8px;
+    margin-top: 10px;
     margin-left: -2px;
 }
 .test-two-perfect-footer-three{
@@ -2039,6 +2039,9 @@
     margin-top: -42px;
     margin-left: 20px;
 }
+.test-class-footer-body >h4{
+    letter-spacing: 0.2px!important;
+}
 .classstyle-css{
     margin-top: 9px;
     margin-left: -1px;
@@ -2053,6 +2056,9 @@
 .clasthisis{
     margin-top: -42px;
     margin-left: 20px;
+}
+.clasthisis >h4{
+    letter-spacing: 0.2px!important;
 }
 .klassni{
     margin-top: 8px;
@@ -2073,6 +2079,9 @@
     margin-top: -41px;
     margin-left: 21px;
 }
+.footer-body-conteiner-three >h2{
+    margin-top: -1px;
+}
 .footer-bottom-element-product{
     margin-top: 6px;
 }
@@ -2083,7 +2092,7 @@
 }
 .contact-title-block-dome{
     margin-left: -50px;
-    margin-top: 7px;
+    margin-top: 8px;
 }
 .contact-title-block-dome >span{
     letter-spacing: 0.2px;
@@ -2109,9 +2118,11 @@
     margin-top: -25px;
     margin-left: -48px;
 }
-.classdivclasname{
+.classdivclasname span{
     letter-spacing: 0.3px;
-    font-size: 17px;
+    /* font-size: 17px; */
+    letter-spacing: 1.7px;
+    margin-left: -2px;
 }
 
 .classdivclasname > p{
@@ -2120,8 +2131,8 @@
     margin-left: -2px;
 }
 .footerlastelement{
-    margin-top: 0px;
-    letter-spacing: -0.3px;
+    margin-top: 1px!important;
+    letter-spacing: -0.3px!important;
 }
 .product-card-hover{
     cursor: pointer;
@@ -2189,4 +2200,34 @@
 .new-footer-line-item >h2{
     margin-top: -1px;
     letter-spacing: -0.27px;
+}
+.new-footer-section-left-inpute{
+    padding-top: 2px;
+    padding-left: 3px;
+    letter-spacing: 0.6px;
+}
+.widthsmallfooter{
+    width: 272px;
+}
+.marginlefthrefooter{
+    width: 272px;
+    margin-left: -34px;
+    margin-top: 19px!important;
+    margin-bottom: 21px!important;
+}
+.calssthree-footerhr{
+    width: 270px!important;
+    margin-left: -49px!important;
+    margin-top: 14px!important;
+    margin-bottom: 26px!important;
+}
+.footer-navbar-copyriting-foot{
+    margin-top: -1px!important;
+}
+.classside-inpute-inside{
+    height: 33px!important;
+    margin-bottom: 8px!important;
+}
+.new-footer-description-span-css > span{
+    margin-left: 2px;
 }
